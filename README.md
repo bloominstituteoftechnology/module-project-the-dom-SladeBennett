@@ -134,7 +134,7 @@ Some quotes have a `null` date because it is unknown. In such cases, the div con
 
   ---
 
-Using random values from the arrays `adverbs`, `nouns`, and `verbs` contained in `data.js`, add to the DOM inside the corportatespeak div in the following format:
+Using random values from the arrays `adverbs`, `nouns`, and `verbs` contained in `data.js`, add to the DOM inside the corporatespeak div in the following format:
 
 ```html
 <div class="corporatespeak widget">
